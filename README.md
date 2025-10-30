@@ -37,7 +37,7 @@ Develop a *machine learning model* that predicts the *price of electric vehicles
 ## 📊 *Dataset Details*
 
 *Dataset Name:* Vehicle Dataset 2024  
-*Source:* [Kaggle – Vehicle Dataset 2024](https://www.kaggle.com/datasets/karthamago/vehicle-dataset-2024)  
+*Source:* [Kaggle – Vehicle Dataset 2024](https://www.kaggle.com/datasets/rameezmeerasahib/electric-vehicle-ev-sales-and-adoption)  
 *File Name:* car_data_clean.csv  
 
 | Feature | Description |
